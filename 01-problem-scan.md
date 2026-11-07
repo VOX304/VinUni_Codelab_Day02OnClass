@@ -141,3 +141,4 @@ Từ 6 bài toán trên, nhóm tiến hành lọc và đánh giá 3 bài toán c
 Nhóm quyết định chọn **Quick Problem Card #1: Điều phối cứu hộ khẩn cấp sạc pin taxi điện Xanh SM** vì:
 1. **Tính cấp thiết và an toàn thực tế:** Xe điện cạn pin giữa đường gây tắc nghẽn giao thông đô thị và nguy cơ mất an toàn giao thông nghiêm trọng cho thương hiệu Xanh SM.
 2. **Operational Boundary rõ ràng:** Có thể áp đặt các ranh giới cứng (Hard Guardrails) như thẻ `[DRAFT_ONLY]` cho Human-in-the-loop và quy tắc pin `< 5%` bắt buộc điều xe cứu hộ di động thay vì mạo hiểm cho tài xế chạy tìm trạm sạc xa.
+

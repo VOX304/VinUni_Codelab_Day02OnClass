@@ -119,3 +119,4 @@ Quy trình xử lý thủ công hiện tại khi tài xế Xanh SM báo động 
 1. **Lợi ích kinh tế vượt trội:** Chi phí vận hành mô hình `gemini-3.5-flash` cực kỳ rẻ (~0.0001 USD/lần gọi API) so với chi phí tổn thất một chuyến xe bị chết máy giữa đường (~150.000 VNĐ doanh thu + ~800.000 VNĐ chi phí cẩu xe).
 2. **Khả thi kỹ thuật cao:** Không cần huấn luyện lại mô hình nền (no fine-tuning required); chỉ cần áp dụng System Prompting với kỹ thuật Guardrail ranh giới cứng đã có thể giải quyết dứt điểm 95% tình huống lặp lại.
 3. **An toàn kiểm soát được:** Quy định thẻ `[DRAFT_ONLY]` đảm bảo quyền quyết định cuối cùng luôn thuộc về con người, ngăn ngừa tuyệt đối rủi ro AI tự gửi tin sai lệch cho tài xế.
+

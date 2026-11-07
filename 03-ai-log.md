@@ -65,3 +65,4 @@ Trong quá trình thử nghiệm ban đầu (khi chưa thiết lập System Prom
 
 > **"Problem First, Boundary Second, AI Third."**  
 > AI rất mạnh trong việc sinh văn bản tự nhiên, nhưng trong các hệ thống vận hành thực tế (Mission-Critical Systems) như xe điện và giao thông của Vingroup, **sự tự do của AI là một rủi ro**. Một kỹ sư AI giỏi tại Vin Smart Future không phải là người để AI tự do làm mọi thứ, mà là người biết đóng khung ranh giới an toàn (Guardrails) để khai thác tối đa sức mạnh của AI mà không bao giờ gây tổn thất cho doanh nghiệp.
+
